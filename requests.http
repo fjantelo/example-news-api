@@ -1,0 +1,2 @@
+###
+GET https://newsapi.org/v2/everything?q=Apple&from=2022-07-19&sortBy=popularity&apiKey=API-KEY
